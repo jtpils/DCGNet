@@ -12,7 +12,7 @@ If you find this code useful for your research, please consider citing the follo
 
 	@Inproceedings{wang2019dcg,
 	  Title          = {Deep Cascade Generation on Point Sets},
-	  Author         = {Wang, Kaiqi and Chen, Ke and Jia Kui},
+	  Author         = {Wang, Kaiqi and Chen, Ke and Jia, Kui},
 	  Booktitle      = {IJCAI},
 	  Year           = {2019}
 
